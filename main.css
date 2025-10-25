@@ -54,7 +54,10 @@ p {
 }
 
 #about-photo {
-
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid darkred;
+	float: left;
 }
 
 #copyright {
@@ -62,7 +65,9 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid darkred;
 }
 
 #text-intro {
