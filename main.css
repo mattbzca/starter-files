@@ -34,7 +34,11 @@ p {
 }
 
 .album-art {
-
+	float: left;
+	width: 100px;
+	margin: 15px 45px;
+	padding: 15px;
+	border: 1px solid rgb(216, 7, 7);
 }
 
 .clear {
@@ -46,11 +50,11 @@ p {
 }
 
 .record-label {
-
+	color: red;
 }
 
 .track-list {
-
+	
 }
 
 #about-photo {
